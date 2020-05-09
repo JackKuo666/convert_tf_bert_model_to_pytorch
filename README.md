@@ -35,6 +35,7 @@ python convert_tf_checkpoint_to_pytorch.py
 
 ## 注意：
 如果地址出现错误，请修改如下代码为自定义地址：
+
 windows版本地址：
 ```py
 args.tf_checkpoint_path = "chinese_L-12_H-768_A-12\\bert_model.ckpt"
