@@ -25,7 +25,7 @@ pip install -r requirement.txt
 ```
 python convert_tf_checkpoint_to_pytorch.py
 ```
-转换成功的 pytorch 版本的与训练 model 会保存在：
+转换成功的 pytorch 版本的预训练 model 会保存在：
 ```
 ├── convert_tf_bert_model_to_pytorch
 |  └── chinese_L-12_H-768_A-12
