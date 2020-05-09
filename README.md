@@ -52,10 +52,11 @@ args.pytorch_dump_path = "./chinese_L-12_H-768_A-12/pytorch_model.bin"
 
 
 ## 也可以直接下载转换好的model:
-```
 config: https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-chinese-config.json 
+
 vocab: https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-chinese-vocab.txt 
+
 model: https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-chinese-pytorch_model.bin
-```
+
 
 项目代码来自：https://github.com/huggingface
